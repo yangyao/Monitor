@@ -1,0 +1,12 @@
+{
+	"require":{
+		"jasonlewis/resource-watcher": "1.2.*",
+		"yangyao/ftp": "dev-master",
+		"symfony/console":"~2.3"
+	},
+  "autoload":{
+    "psr-4":{
+      "Sailvan\\Monitor\\":"src"
+    }
+  }
+}
